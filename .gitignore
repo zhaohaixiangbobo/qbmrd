@@ -1,0 +1,65 @@
+# 前端相关
+# dependencies
+frontend/node_modules
+frontend/.pnp
+frontend/.pnp.js
+
+# testing
+frontend/coverage
+
+# production
+frontend/build
+
+# misc
+frontend/.DS_Store
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# 后端相关
+# Python字节码文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+venv/
+env/
+.env/
+
+# 日志文件
+*.log
+
+# 本地配置文件
+.env
+
+# IDE相关
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 实验输出
+exp/output/
+
+# 本地私有实验数据（公开仓库仅保留脱敏数据）
+exp/data1/
+
+# 投稿修回相关
+submission_revision_202608/
+
+# exp 目录下的 Markdown 文档
+exp/**/*.md
+
+# 工具/部署配置
+.trae/
+.vercel/
