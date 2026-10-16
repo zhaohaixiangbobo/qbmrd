@@ -1,0 +1,7 @@
+﻿Metric,Without temporal-profile terms,With temporal-profile terms,Interpretation
+Normalised round-volume range,3.0,1.0396039408871082e-08,More balanced round totals (smaller maximum–minimum range relative to the mean).
+Normalised adjacent-round variation,1.5,5.198019704435541e-09,More stable adjacent-round totals.
+SKU-level fluctuation,1.0,7.4257425555092285e-09,Smoother SKU-level release across rounds.
+Mean within-SKU concentration,1.0,0.3333333376070487,Lower single-round concentration within each SKU.
+Reference-profile deviation,0.6485148514851485,0.0247524722772277,Closer agreement with the constructed illustrative reference.
+First-round share,1.0,0.3333333356435643,Lower first-round concentration.

@@ -1,0 +1,3 @@
+﻿scenario,status,solver_status,n_runs,solver_success_rate
+Baseline,Optimal,Optimal,6,1.0
+Perturbed,Optimal,Optimal,60,1.0

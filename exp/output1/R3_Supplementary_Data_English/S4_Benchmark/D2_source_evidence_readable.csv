@@ -1,0 +1,4 @@
+﻿Path,Type,Value
+$.source_file,string,D2_benchmark_240_run_records.csv
+$.sha256,string,3bcbc1726b2736fdc269a775b264f7eb1a573a6c7ca6233c59d6f1b9d9fe2d93
+$.row_count,number,240

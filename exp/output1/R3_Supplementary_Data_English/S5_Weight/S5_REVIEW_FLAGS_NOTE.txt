@@ -1,0 +1,7 @@
+D3 EXTERNAL REVIEW FLAGS AND SOLVER STATUS
+
+The archived feasible field and the summary label "Post-solution feasibility rate" describe the external validator's zero-review-flag condition. A value of False or 0.0% does not mean that the LP solver returned Infeasible. Review flags and solver status address different checks.
+
+The 36-run status column records Optimal and, where applicable, the operational adjustments. The scalar CSV records and their numerical values are unchanged. Eighteen saved matrices at weights 0, 300 and 1200 are provided in Historical_Results/D3/Key_Solutions within the confidential R3_Review_Materials_English.zip, using the Source_Data identifier namespace.
+
+Those workbooks retain the settings passed into the solver wrapper. They do not supply all 36 final per-attempt frozen configurations.

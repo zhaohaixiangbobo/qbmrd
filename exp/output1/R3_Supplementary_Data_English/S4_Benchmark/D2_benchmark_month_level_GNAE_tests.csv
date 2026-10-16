@@ -1,0 +1,4 @@
+﻿metric,baseline_method,compare_method,n_pairs,pairing_unit,seed_handling,test_name,statistic,p_value,effect_direction,baseline_month_mean,compare_month_mean,p_value_bh,significant_at_0_05_after_bh
+gnae,LP,RuleBased,6,month,mean_gnae_within_month_before_pairing,Wilcoxon signed-rank exact two-sided,0.0,0.03125,worse,0.17197148629013848,0.28442173300996004,0.09375,False
+gnae,LP,SA,6,month,mean_gnae_within_month_before_pairing,Wilcoxon signed-rank exact two-sided,8.0,0.6875,worse,0.17197148629013848,0.17877397481863755,0.6875,False
+gnae,LP,GA,6,month,mean_gnae_within_month_before_pairing,Wilcoxon signed-rank exact two-sided,8.0,0.6875,better,0.17197148629013848,0.16554195276903552,0.6875,False

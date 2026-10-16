@@ -1,0 +1,7 @@
+﻿Path,Type,Value
+$.run_id,string,robustness_20260810T211905
+$.command,string,robustness
+$.created_at_utc,string,2026-08-10T13:19:05.706648+00:00
+$.python,string,"3.12.12 | packaged by conda-forge | (main, Oct 22 2025, 23:13:34) [MSC v.1944 64 bit (AMD64)]"
+$.platform,string,Windows-10-10.0.19045-SP0
+$.snapshot_manifest_sha256,string,5c87b528aebb8bfec13948894f6df8ac1836c3aa5727d4fac5a470d630142703

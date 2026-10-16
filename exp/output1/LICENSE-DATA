@@ -1,0 +1,28 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Scope: all data and documentation files in this directory outside
+Implementation/, namely R3_Supplementary_Data_English/, Verification/, Docs/,
+Provenance/ and README.md. Code under Implementation/ is licensed under the
+MIT License; see LICENSE.
+
+Copyright (c) 2026 The authors of "From human decision-makers to automated
+decision aids: a decision-support system for quota-based multi-round
+distribution"
+
+You are free to share (copy and redistribute the material in any medium or
+format) and adapt (remix, transform and build upon the material) for any
+purpose, even commercially, under the following terms:
+
+  Attribution - You must give appropriate credit by citing the manuscript
+  above, provide a link to the licence, and indicate if changes were made.
+
+  No additional restrictions - You may not apply legal terms or technological
+  measures that legally restrict others from doing anything the licence
+  permits.
+
+This summary is not a substitute for the licence. The full legal code is
+available at: https://creativecommons.org/licenses/by/4.0/legalcode
+
+The licence covers only the public derived records supplied here. It grants no
+rights to the confidential enterprise source data or confidential allocation
+matrices, which are not part of this directory.

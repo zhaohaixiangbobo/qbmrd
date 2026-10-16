@@ -1,0 +1,31 @@
+{
+  "description": "Generated from snapshot backend defaults; confirmation by the business owner is required before the formal submission run.",
+  "constraints": {
+    "enable_demand_constraints": true,
+    "enable_volume_constraints": true,
+    "enable_price_constraints": true,
+    "enable_c_type_constraints": true,
+    "enable_balance_constraints": true,
+    "enable_demand_split_constraints": true,
+    "enable_demand_based_constraints": true,
+    "enable_price_based_constraints": true,
+    "volume_tolerance": 0.005,
+    "price_upper_limits": null,
+    "price_lower_limits": null,
+    "volume_limits": null,
+    "price_based_ratio": 0.3,
+    "c_type_ratio": 0.4,
+    "c_type_volume_limit": 4900,
+    "chang_type_ratio": 0.2,
+    "chang_type_volume_limit": 1000,
+    "xi_type_ratio": 0.6,
+    "xi_type_volume_limit": 3000
+  },
+  "objective": {
+    "maximize_allocation_weight": 1000.0,
+    "round_balance_weight": 800.0,
+    "round_variance_weight": 0,
+    "product_balance_weight": 0,
+    "smooth_transition_weight": 0
+  }
+}

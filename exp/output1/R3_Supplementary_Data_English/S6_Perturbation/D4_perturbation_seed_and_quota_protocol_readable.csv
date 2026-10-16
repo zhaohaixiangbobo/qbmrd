@@ -1,0 +1,14 @@
+﻿Path,Type,Value
+$.seeds[0],number,1001
+$.seeds[1],number,1002
+$.seeds[2],number,1003
+$.seeds[3],number,1004
+$.seeds[4],number,1005
+$.seeds[5],number,1006
+$.seeds[6],number,1007
+$.seeds[7],number,1008
+$.seeds[8],number,1009
+$.seeds[9],number,1010
+$.amplitude,number,0.05
+$.demand_total_policy,string,renormalize_to_original_month_total
+$.quota_policy,string,unchanged

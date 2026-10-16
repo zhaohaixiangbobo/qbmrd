@@ -1,0 +1,18 @@
+{
+  "completed_runs": 36,
+  "optimal_runs": 36,
+  "total_lp_attempts": 78,
+  "fallback_runs": 0,
+  "saved_complete_snapshots": 36,
+  "saved_final_workbooks": 36,
+  "non_timing_metric_comparisons": 360,
+  "non_timing_metric_mismatches": 0,
+  "mismatch_metrics": [],
+  "saved_historical_matrices_compared": 18,
+  "matrices_within_tolerance": 18,
+  "exact_equal_matrices": 0,
+  "historical_solve_seconds": 80.48876899999595,
+  "new_solve_seconds": 47.636325999978,
+  "elapsed_seconds": 59.239131299982546,
+  "source_and_input_hashes_unchanged": true
+}

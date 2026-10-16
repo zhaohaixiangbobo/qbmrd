@@ -63,3 +63,7 @@ exp/**/*.md
 # 工具/部署配置
 .trae/
 .vercel/
+
+# Public supporting materials (exp/output1): upload in full
+!exp/output1/**/*.md
+!exp/output1/Implementation/S10_Reproduction_Code/submission_revision_202608/

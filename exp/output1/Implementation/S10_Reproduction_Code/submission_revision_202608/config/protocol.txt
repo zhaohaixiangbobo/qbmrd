@@ -1,0 +1,19 @@
+{
+  "seed_start": 1001,
+  "seed_count": 30,
+  "metaheuristic_time_limit_sec": 60,
+  "max_objective_evaluations": 50000,
+  "ga_population_size": 50,
+  "lp_time_limit_sec": 60,
+  "numerical_tolerance_relative": 1e-06,
+  "representative_top_skus": 20,
+  "robustness_seed_start": 1001,
+  "robustness_seed_count": 10,
+  "robustness_input_perturbation_amplitude": 0.05,
+  "robustness_volume_tolerance": 0.1,
+  "robustness_price_band_relative_half_width": 0.15,
+  "robustness_structure_ratio_guard": 0.01,
+  "robustness_structure_volume_margin": 0.1,
+  "robustness_numerical_tolerance_absolute": 0.2,
+  "robustness_numerical_tolerance_relative": 5e-05
+}

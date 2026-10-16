@@ -1,0 +1,8 @@
+﻿editor_request,public_location,confidential_review_location,status
+English accessible data,R3_Supplementary_Data_English/,Source_Data/ and Detailed_Outputs/,English tables and readable configuration records supplied.
+Raw datasets and references,Access explanation in README.md,Source_Data/Input and Source_Data/Reference,Confidential Related file; not mirrored publicly.
+Variables and transformations,Public-data README and per-analysis tables,Source_Data/DATA_DICTIONARY.csv; provenance records,Separate documentation for public derived records and confidential source data.
+Analysis code and statistics,Implementation/; Docs/PUBLIC_CODE_GUIDE.md,Full Implementation/ directory,Selected identical code copy; public month-level recheck needs no optimization.
+Detailed results for scrutiny,D1-D6 scalar records and public allocation case,Historical_Results/D3/Key_Solutions; Historical_Results/D1_Case_Input; Detailed_Outputs,Confidential matrices remain available through review access.
+Data availability statement,README.md,Submission manuscript and system text,Add repository URL only after upload; existing submission-file routes remain valid.
+References figures legends contributions and upload types,Not a repository-data requirement,"Main manuscript, figure files and submission-system fields",Handled in the submission package; repository publication does not complete system fields.

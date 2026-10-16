@@ -1,0 +1,20 @@
+﻿Configuration item,Actual value
+c_type_ratio,0.4
+c_type_volume_limit,4900
+chang_type_ratio,0.32253376270870476
+chang_type_volume_limit,1103.3
+enable_balance_constraints,True
+enable_c_type_constraints,False
+enable_demand_based_constraints,True
+enable_demand_constraints,True
+enable_demand_split_constraints,False
+enable_price_based_constraints,False
+enable_price_constraints,True
+enable_volume_constraints,True
+price_based_ratio,0.3
+price_lower_limits,None
+price_upper_limits,None
+volume_limits,None
+volume_tolerance,0.005
+xi_type_ratio,0.67535389322906
+xi_type_volume_limit,3000

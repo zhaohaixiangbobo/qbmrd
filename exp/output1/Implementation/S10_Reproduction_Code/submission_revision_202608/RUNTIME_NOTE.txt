@@ -1,0 +1,20 @@
+Runtime and provenance note
+
+Recorded historical D4 runtime:
+- Python 3.12.12, conda-forge, 64-bit Windows.
+- Windows-10-10.0.19045-SP0.
+- The exact historical NumPy, pandas, SciPy, PuLP, openpyxl, Pydantic and CBC versions were not saved in the supplied run metadata.
+
+Source-identified Python dependencies:
+numpy
+pandas
+scipy
+pulp
+openpyxl
+pydantic
+
+These names are a dependency inventory, not a historically pinned lockfile. The original backend requirements file contains commented suggestions and is not treated as evidence of installed versions. SciPy is imported by the CLI runner even when the D4 command is selected. Pandas uses an Excel engine for the input workbooks. PuLP invokes CBC through PULP_CBC_CMD; a compatible CBC executable must be available in the chosen PuLP installation/runtime.
+
+The audit-only verify_release.py needs only the Python standard library and does not need the above packages or a solver. It does not perform or certify numerical re-execution.
+
+D4 LP time_limit is 60 seconds. Its recorded solve_time_sec measures wall-clock construction and allocation-routine time through extraction/postprocessing, excluding input/perturbation generation, external diagnostics/metrics and file export. Exact historic elapsed times are not promised across machines or dependency versions.

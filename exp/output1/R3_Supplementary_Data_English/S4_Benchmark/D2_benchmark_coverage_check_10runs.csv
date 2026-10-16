@@ -1,0 +1,2 @@
+﻿experiment,months,methods,seeds,seed_values,run_level_rows,expected_rows,duplicate_month_method_seed_rows,strictly_feasible_runs,strict_feasible_rate,validation_result
+benchmark_multiseed_10seed_sa300_ga600,6,4,10,"42,43,44,45,46,47,48,49,50,51",240,240,0,0,0.0,PASS: coverage complete; strict feasibility is zero for every method

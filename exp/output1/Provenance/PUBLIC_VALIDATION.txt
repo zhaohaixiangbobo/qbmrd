@@ -1,0 +1,12 @@
+{
+  "organization_date": "2026-10-16",
+  "scientific_data_files_unchanged": 50,
+  "code_and_configuration_files_unchanged": 34,
+  "independent_rerun_included": true,
+  "confidential_source_data_included": false,
+  "visual_inspection_executed": false,
+  "repository_uploaded_by_this_task": false,
+  "scope": "Directory organization and hash verification; earlier scientific checks are recorded in author-only preparation reports.",
+  "independent_rerun_scope": "Seven public summary files; complete configurations, traces and matrices are confidential Related materials.",
+  "independent_rerun_count": 36
+}
